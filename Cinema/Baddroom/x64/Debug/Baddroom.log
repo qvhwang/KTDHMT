@@ -1,0 +1,18 @@
+﻿  main.cpp
+CameraController.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "public: void __cdecl CameraController::Keyboard(unsigned char,int,int)" (?Keyboard@CameraController@@QEAAXEHH@Z)
+main.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMouseFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMotionFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutWireSphere referenced in function "void __cdecl drawCeilingLight(void)" (?drawCeilingLight@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutSolidSphere referenced in function "void __cdecl drawAllLights(void)" (?drawAllLights@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutSolidCube referenced in function "void __cdecl drawChair(float,float,float)" (?drawChair@@YAXMMM@Z)
+glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\source\repos\Project4\x64\Debug\Baddroom.exe : fatal error LNK1120: 15 unresolved externals

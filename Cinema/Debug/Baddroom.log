@@ -1,0 +1,6 @@
+﻿  CameraController.cpp
+D:\DHMT\Baddroom\Baddroom\CameraController.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HuyChien.cpp
+  main.cpp
+  Generating Code...
+  Baddroom.vcxproj -> D:\DHMT\Baddroom\Debug\Baddroom.exe

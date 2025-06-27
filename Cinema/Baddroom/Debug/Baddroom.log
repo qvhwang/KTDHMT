@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Baddroom.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CameraController.cpp
+  main.cpp
+  Generating Code...
+  Baddroom.vcxproj -> D:\source\Bedroom\Debug\Cinema3D.exe

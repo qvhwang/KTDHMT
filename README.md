@@ -1,1 +1,1 @@
-bài tập lớn kỹ thuật đồ hoạ máy tính Thiết kế rạp chiếu phim 3D
+Link demo dự án: https://drive.google.com/drive/folders/1yBP_V4fDEAfiEz6e8_Zf33eY1lfH9QPu?usp=drive_link
